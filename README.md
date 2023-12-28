@@ -15,9 +15,8 @@ ChatGPT
 The name "CitizenCooperative" suggests a collaborative and community-oriented approach to coding or technology-related endeavors. Breaking down the name:
 
 Citizen: Implies that it involves individuals or members of a community who may not necessarily be professional programmers but are part of a broader citizenry.
-Cooperative: Indicates a sense of collaboration, shared effort, and working together towards common goals. 
 
-The term "cooperative" often conveys a community-focused, participatory, and mutually beneficial approach.
+Cooperative: Indicates a sense of collaboration, shared effort, and working together towards common goals. The term "cooperative" often conveys a community-focused, participatory, and mutually beneficial approach.
 
 Combining these elements, "CitizenCooperative" suggests a platform, initiative, or environment where citizens come together to collaborate on coding or technology projects. 
 
